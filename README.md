@@ -1,38 +1,54 @@
-# sv
+# Bonfim — Modern SvelteKit Cafe Template
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+A high-performance, single-page landing template crafted for cafes, specialty coffee shops, and brunch spots. Built with SvelteKit 5 (Runes) and Tailwind CSS, it emphasizes responsiveness, visual storytelling, and fast load times. Ideal for developers offering “Website as a Service” to local businesses.
 
-## Creating a project
+---
 
-If you're seeing this, you've probably already done this step. Congrats!
+## 🚀 Features
 
-```sh
-# create a new project in the current directory
-npx sv create
+### ⚡ Svelte 5 & Runes  
+Leverages the newest reactivity model for lean, ultra-fast interactions.
 
-# create a new project in my-app
-npx sv create my-app
-```
+### 📱 Mobile-First Experience  
+Designed to look exceptional on phones, where most customers search for local cafés.
 
-## Developing
+### 🎨 Grainy Gradient Aesthetics  
+A textured, modern UI that stands apart from cookie-cutter templates.
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+### 🔍 SEO Ready  
+SSR ensures instant indexing of your menu, address, and metadata.
 
-```sh
-npm run dev
+### 🥗 Dietary Menu Filtering  
+Built-in vegan and gluten-free filters powered by Svelte state.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+### 📍 Interactive Map  
+Google Maps embed for instant location discovery.
 
-## Building
+### ✨ Native Animations  
+Smooth transitions using Svelte’s fly, scale, and fade effects.
 
-To create a production version of your app:
+---
 
-```sh
-npm run build
-```
+## 🛠 Tech Stack
 
-You can preview the production build with `npm run preview`.
+- **Framework:** SvelteKit (Svelte 5)
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide Svelte
+- **Deployment:** Vercel, Netlify, or any Edge-compatible platform
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+- Node.js 18+
+- npm, pnpm, or yarn
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/bonfim-template.git
+cd bonfim-template
+
