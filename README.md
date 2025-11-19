@@ -51,4 +51,22 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/bonfim-template.git
 cd bonfim-template
+```
+
+```bash
+npm install
+# or
+pnpm install
+```
+
+```bash
+npm run dev
+```
+
+```bash
+http://localhost:5173
+
+```
+
+
 
