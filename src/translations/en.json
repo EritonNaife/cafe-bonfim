@@ -1,0 +1,129 @@
+{
+	"hero": {
+		"title": "Bonfim",
+		"subtitle": "Brunch & Specialty Coffee",
+		"findUs": "Find Us",
+		"address": "Rua do Bonfim 123, Porto",
+		"hours": "Hours",
+		"hoursText": "Mon-Fri: 8am-6pm | Sat-Sun: 9am-7pm",
+		"viewMenu": "View Menu",
+		"reserveTable": "Reserve Table"
+	},
+	"menu": {
+		"title": "Our Menu",
+		"subtitle": "From farm-to-table to your plate",
+		"all": "All",
+		"vegan": "Vegan",
+		"glutenFree": "Gluten-Free",
+		"brunchFavorites": "Brunch Favorites",
+		"specialtyCoffee": "Specialty Coffee",
+		"items": {
+			"avocadoToast": {
+				"name": "Avocado Toast",
+				"description": "Sourdough bread, creamy avocado, poached egg, roasted cherry tomatoes"
+			},
+			"frenchToast": {
+				"name": "French Toast",
+				"description": "Caramelized brioche, fresh berries, maple syrup, whipped cream"
+			},
+			"shakshuka": {
+				"name": "Shakshuka",
+				"description": "Poached eggs in spicy tomato sauce, peppers, feta cheese, bread"
+			},
+			"granolaBowl": {
+				"name": "Granola Bowl",
+				"description": "Greek yogurt, homemade granola, seasonal fruit, local honey"
+			},
+			"espresso": {
+				"name": "Espresso",
+				"description": "Single-origin blend from Brazil, chocolate and caramel notes"
+			},
+			"cappuccino": {
+				"name": "Cappuccino",
+				"description": "Creamy espresso with steamed milk, optional latte art"
+			},
+			"flatWhite": {
+				"name": "Flat White",
+				"description": "Velvety and strong, perfect coffee-to-milk ratio"
+			},
+			"coldBrew": {
+				"name": "Cold Brew",
+				"description": "12-hour cold infusion, smooth and sweet flavor"
+			}
+		}
+	},
+	"about": {
+		"title": "Our Story",
+		"story": "Welcome to Bonfim, where Porto tradition meets modern coffee culture. Founded in 2023 in the heart of the historic Bonfim neighborhood, we've created a space where locals and tourists gather around exceptional food and specialty coffee.",
+		"mission": "We source our beans directly from sustainable farms and work with local producers to create a menu that celebrates the seasonal flavors of the Porto region.",
+		"valuesTitle": "What We Believe In",
+		"values": {
+			"sustainable": {
+				"title": "Sustainable",
+				"description": "From bean to cup, we support ethical practices"
+			},
+			"local": {
+				"title": "Local",
+				"description": "Partnership with Portuguese farms and suppliers"
+			},
+			"inclusive": {
+				"title": "Inclusive",
+				"description": "Options for all diets and preferences"
+			},
+			"community": {
+				"title": "Community",
+				"description": "A welcoming space for everyone to meet"
+			}
+		}
+	},
+	"contact": {
+		"title": "Visit Us",
+		"subtitle": "We look forward to welcoming you",
+		"hoursTitle": "Opening Hours",
+		"days": {
+			"monday": "Monday",
+			"tuesday": "Tuesday",
+			"wednesday": "Wednesday",
+			"thursday": "Thursday",
+			"friday": "Friday",
+			"saturday": "Saturday",
+			"sunday": "Sunday"
+		},
+		"closed": "Closed",
+		"instagramTitle": "Follow Us",
+		"instagramHandle": "@bonfim.porto",
+		"reservationTitle": "Reserve a Table",
+		"reservationSubtitle": "We'll secure your perfect spot",
+		"form": {
+			"name": "Name",
+			"namePlaceholder": "Your name",
+			"email": "Email",
+			"emailPlaceholder": "your@email.com",
+			"date": "Date",
+			"time": "Time",
+			"guests": "Guests",
+			"guestsPlaceholder": "Number of people",
+			"message": "Message",
+			"messagePlaceholder": "Any special requests?",
+			"submit": "Submit Reservation"
+		},
+		"info": {
+			"address": "Address",
+			"addressText": "Rua do Bonfim 123, Porto",
+			"phone": "Phone",
+			"phoneText": "+351 220 123 456",
+			"email": "Email",
+			"emailText": "hello@bonfim.porto"
+		}
+	},
+	"footer": {
+		"description": "Specialty coffee & brunch in the heart of Porto",
+		"quickLinks": "Quick Links",
+		"menu": "Menu",
+		"about": "About",
+		"contact": "Contact",
+		"reservation": "Reservation",
+		"followUs": "Follow Us",
+		"rights": "All rights reserved."
+	}
+}
