@@ -11,74 +11,75 @@
 	},
 	"menu": {
 		"title": "O Nosso Menu",
-		"subtitle": "Do farm-to-table ao seu prato",
+		"subtitle": "Criado com amor, servido com carinho. Ingredientes frescos e sazonais que celebram os sabores do Porto.",
 		"all": "Tudo",
 		"vegan": "Vegano",
 		"glutenFree": "Sem Glúten",
+		"glutenFreeShort": "SG",
 		"brunchFavorites": "Favoritos do Brunch",
 		"specialtyCoffee": "Café Especializado",
 		"items": {
-			"avocadoToast": {
-				"name": "Tosta de Abacate",
-				"description": "Pão de massa azeda, abacate cremoso, ovo pochê, tomate-cereja assado"
+			"avocadoToastDeluxe": {
+				"name": "Tosta de Abacate Deluxe",
+				"description": "Pão de massa azeda, abacate esmagado, ovos escalfados, tomate cherry"
 			},
-			"frenchToast": {
-				"name": "Rabanadas",
-				"description": "Brioche caramelizada, frutos silvestres frescos, xarope de ácer, chantilly"
+			"portoFrenchToast": {
+				"name": "Rabanada do Porto",
+				"description": "Brioche, figos caramelizados, mascarpone, fio de mel"
 			},
-			"shakshuka": {
-				"name": "Shakshuka",
-				"description": "Ovos escalfados em molho de tomate picante, pimento, queijo feta, pão"
+			"acaipowerBowl": {
+				"name": "Açaí Power Bowl",
+				"description": "Açaí, granola, frutos silvestres frescos, lascas de coco, sementes de chia"
 			},
-			"granolaBowl": {
-				"name": "Tigela de Granola",
-				"description": "Iogurte grego, granola caseira, fruta da época, mel local"
+			"eggsBenedict": {
+				"name": "Ovos Benedict",
+				"description": "Muffin inglês, ovos escalfados, molho holandês, salmão fumado"
 			},
-			"espresso": {
-				"name": "Espresso",
-				"description": "Blend single-origin do Brasil, notas de chocolate e caramelo"
-			},
-			"cappuccino": {
-				"name": "Cappuccino",
-				"description": "Espresso cremoso com leite vaporizado, arte latte opcional"
+			"singleOriginEspresso": {
+				"name": "Espresso de Origem Única",
+				"description": "Seleção rotativa dos nossos torrefatores em destaque"
 			},
 			"flatWhite": {
 				"name": "Flat White",
-				"description": "Aveludado e forte, proporção perfeita de café-leite"
+				"description": "Espresso duplo, microespuma, arte latte"
 			},
-			"coldBrew": {
-				"name": "Cold Brew",
-				"description": "Infusão a frio durante 12h, sabor suave e doce"
+			"coldBrewTonic": {
+				"name": "Cold Brew Tónico",
+				"description": "Cold brew da casa, água tónica, raspas de laranja"
+			},
+			"matchaLatte": {
+				"name": "Matcha Latte",
+				"description": "Matcha cerimonial, leite de aveia, mel"
 			}
 		}
 	},
 	"about": {
 		"title": "A Nossa História",
-		"story": "Bem-vindo ao Bonfim, onde a tradição portuense encontra a cultura moderna do café. Fundado em 2023 no coração do histórico bairro do Bonfim, criamos um espaço onde os locais e turistas se reúnem em torno de comida excecional e café de especialidade.",
-		"mission": "Obtemos os nossos grãos diretamente de quintas sustentáveis e trabalhamos com produtores locais para criar um menu que celebra os sabores sazonais da região do Porto.",
+		"story": "Nascidos no vibrante bairro do Bonfim, no Porto, em 2019, propusemo-nos a criar mais do que apenas mais um café. Queríamos construir um lar onde locais e viajantes pudessem desacelerar, saborear comida excecional e conectar-se com café de classe mundial.\n\nA nossa fundadora, Sofia, passou anos a viajar pelos melhores spots de brunch do mundo—de Melbourne a Copenhaga a Los Angeles—antes de regressar à sua cidade natal com uma visão: trazer a mesma qualidade e criatividade para o Porto, mas com uma alma distintamente Portuguesa.\n\nHoje, orgulhamo-nos de servir a nossa comunidade com ingredientes de origem local, café de especialidade de torrefatores independentes e uma atmosfera acolhedora que parece um domingo de manhã em casa.",
+		"yearsServing": "Anos a Servir<br />o Porto",
 		"valuesTitle": "No Que Acreditamos",
 		"values": {
 			"sustainable": {
-				"title": "Sustentável",
-				"description": "Do grão à chávena, apoiamos práticas éticas"
+				"title": "Qualidade em Primeiro Lugar",
+				"description": "Obtemos os melhores grãos e ingredientes, trabalhando diretamente com fornecedores locais e quintas sustentáveis."
 			},
 			"local": {
-				"title": "Local",
-				"description": "Parceria com quintas e fornecedores portugueses"
+				"title": "Feito com Amor",
+				"description": "Cada prato e bebida é preparado com carinho, trazendo calor e alegria ao seu dia."
 			},
 			"inclusive": {
-				"title": "Inclusivo",
-				"description": "Opções para todas as dietas e preferências"
+				"title": "Centro Comunitário",
+				"description": "Mais do que um café - somos um ponto de encontro para os criativos e amigáveis locais do Porto."
 			},
 			"community": {
-				"title": "Comunidade",
-				"description": "Um espaço acolhedor para todos se encontrarem"
+				"title": "Premiado",
+				"description": "Reconhecido como um dos melhores locais de brunch do Porto pela Time Out Porto e Eater."
 			}
 		}
 	},
 	"contact": {
 		"title": "Visite-nos",
-		"subtitle": "Estamos ansiosos para o receber",
+		"subtitle": "Esperamos recebê-lo no nosso acolhedor espaço no coração do histórico bairro do Bonfim, no Porto.",
 		"hoursTitle": "Horário de Funcionamento",
 		"days": {
 			"monday": "Segunda-feira",
@@ -105,24 +106,27 @@
 			"guestsPlaceholder": "Número de pessoas",
 			"message": "Mensagem",
 			"messagePlaceholder": "Algum pedido especial?",
-			"submit": "Enviar Reserva"
+			"submit": "Enviar Reserva",
+			"phonePlaceholder": "Telefone",
+			"alertSuccess": "Pedido de reserva enviado! Entraremos em contacto em breve."
 		},
 		"info": {
 			"address": "Endereço",
-			"addressText": "Rua do Bonfim 123, Porto",
+			"addressText": "Rua do Bonfim 123<br />4300-067 Porto<br />Portugal",
 			"phone": "Telefone",
-			"phoneText": "+351 220 123 456",
+			"phoneText": "+351 222 000 000",
 			"email": "Email",
-			"emailText": "ola@bonfim.porto"
+			"emailText": "hello@bonfim.pt",
+			"contact": "Contacto"
 		}
 	},
 	"footer": {
-		"description": "Café especializado & brunch no coração do Porto",
+		"description": "O local de brunch e café de especialidade favorito do Porto, no coração do Bonfim.",
 		"quickLinks": "Links Rápidos",
 		"menu": "Menu",
 		"about": "Sobre",
 		"contact": "Contacto",
-		"reservation": "Reserva",
+		"reservation": "Reservas",
 		"followUs": "Siga-nos",
 		"rights": "Todos os direitos reservados."
 	}

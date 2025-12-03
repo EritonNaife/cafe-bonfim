@@ -11,74 +11,75 @@
 	},
 	"menu": {
 		"title": "Our Menu",
-		"subtitle": "From farm-to-table to your plate",
+		"subtitle": "Crafted with love, served with care. Fresh, seasonal ingredients celebrating Porto's flavors.",
 		"all": "All",
 		"vegan": "Vegan",
 		"glutenFree": "Gluten-Free",
+		"glutenFreeShort": "GF",
 		"brunchFavorites": "Brunch Favorites",
 		"specialtyCoffee": "Specialty Coffee",
 		"items": {
-			"avocadoToast": {
-				"name": "Avocado Toast",
-				"description": "Sourdough bread, creamy avocado, poached egg, roasted cherry tomatoes"
+			"avocadoToastDeluxe": {
+				"name": "Avocado Toast Deluxe",
+				"description": "Sourdough, smashed avocado, poached eggs, cherry tomatoes"
 			},
-			"frenchToast": {
-				"name": "French Toast",
-				"description": "Caramelized brioche, fresh berries, maple syrup, whipped cream"
+			"portoFrenchToast": {
+				"name": "Porto French Toast",
+				"description": "Brioche, caramelized figs, mascarpone, honey drizzle"
 			},
-			"shakshuka": {
-				"name": "Shakshuka",
-				"description": "Poached eggs in spicy tomato sauce, peppers, feta cheese, bread"
+			"acaipowerBowl": {
+				"name": "Açaí Power Bowl",
+				"description": "Açaí, granola, fresh berries, coconut flakes, chia seeds"
 			},
-			"granolaBowl": {
-				"name": "Granola Bowl",
-				"description": "Greek yogurt, homemade granola, seasonal fruit, local honey"
+			"eggsBenedict": {
+				"name": "Eggs Benedict",
+				"description": "English muffin, poached eggs, hollandaise, smoked salmon"
 			},
-			"espresso": {
-				"name": "Espresso",
-				"description": "Single-origin blend from Brazil, chocolate and caramel notes"
-			},
-			"cappuccino": {
-				"name": "Cappuccino",
-				"description": "Creamy espresso with steamed milk, optional latte art"
+			"singleOriginEspresso": {
+				"name": "Single Origin Espresso",
+				"description": "Rotating selection from our featured roasters"
 			},
 			"flatWhite": {
 				"name": "Flat White",
-				"description": "Velvety and strong, perfect coffee-to-milk ratio"
+				"description": "Double shot espresso, microfoam, latte art"
 			},
-			"coldBrew": {
-				"name": "Cold Brew",
-				"description": "12-hour cold infusion, smooth and sweet flavor"
+			"coldBrewTonic": {
+				"name": "Cold Brew Tonic",
+				"description": "House cold brew, tonic water, orange zest"
+			},
+			"matchaLatte": {
+				"name": "Matcha Latte",
+				"description": "Ceremonial grade matcha, oat milk, honey"
 			}
 		}
 	},
 	"about": {
 		"title": "Our Story",
-		"story": "Welcome to Bonfim, where Porto tradition meets modern coffee culture. Founded in 2023 in the heart of the historic Bonfim neighborhood, we've created a space where locals and tourists gather around exceptional food and specialty coffee.",
-		"mission": "We source our beans directly from sustainable farms and work with local producers to create a menu that celebrates the seasonal flavors of the Porto region.",
-		"valuesTitle": "What We Believe In",
+		"story": "Born in Porto's vibrant Bonfim neighborhood in 2019, we set out to create more than just another café. We wanted to build a home where locals and travelers could slow down, savor exceptional food, and connect over world-class coffee.\n\nOur founder, Sofia, spent years traveling the world's best brunch spots—from Melbourne to Copenhagen to Los Angeles—before returning to her hometown with a vision: bring that same quality and creativity to Porto, but with a distinctly Portuguese soul.\n\nToday, we're proud to serve our community with locally-sourced ingredients, specialty coffee from independent roasters, and a warm, welcoming atmosphere that feels like Sunday morning at home.",
+		"yearsServing": "Years Serving<br />Porto",
+		"valuesTitle": "What We Believe",
 		"values": {
 			"sustainable": {
-				"title": "Sustainable",
-				"description": "From bean to cup, we support ethical practices"
+				"title": "Quality First",
+				"description": "We source the finest beans and ingredients, working directly with local suppliers and sustainable farms."
 			},
 			"local": {
-				"title": "Local",
-				"description": "Partnership with Portuguese farms and suppliers"
+				"title": "Made with Love",
+				"description": "Every dish and drink is crafted with care, bringing warmth and joy to your day."
 			},
 			"inclusive": {
-				"title": "Inclusive",
-				"description": "Options for all diets and preferences"
+				"title": "Community Hub",
+				"description": "More than a café - we're a gathering place for Porto's creative and friendly locals."
 			},
 			"community": {
-				"title": "Community",
-				"description": "A welcoming space for everyone to meet"
+				"title": "Award-Winning",
+				"description": "Recognized as one of Porto's best brunch spots by Time Out Porto and Eater."
 			}
 		}
 	},
 	"contact": {
 		"title": "Visit Us",
-		"subtitle": "We look forward to welcoming you",
+		"subtitle": "We look forward to welcoming you to our cozy spot in the heart of Porto's historic Bonfim neighborhood.",
 		"hoursTitle": "Opening Hours",
 		"days": {
 			"monday": "Monday",
@@ -105,24 +106,27 @@
 			"guestsPlaceholder": "Number of people",
 			"message": "Message",
 			"messagePlaceholder": "Any special requests?",
-			"submit": "Submit Reservation"
+			"submit": "Submit Reservation",
+			"phonePlaceholder": "Phone",
+			"alertSuccess": "Reservation request submitted! We'll contact you soon."
 		},
 		"info": {
 			"address": "Address",
-			"addressText": "Rua do Bonfim 123, Porto",
+			"addressText": "Rua do Bonfim 123<br />4300-067 Porto<br />Portugal",
 			"phone": "Phone",
-			"phoneText": "+351 220 123 456",
+			"phoneText": "+351 222 000 000",
 			"email": "Email",
-			"emailText": "hello@bonfim.porto"
+			"emailText": "hello@bonfim.pt",
+			"contact": "Contact"
 		}
 	},
 	"footer": {
-		"description": "Specialty coffee & brunch in the heart of Porto",
+		"description": "Porto's favorite brunch spot & specialty coffee bar in the heart of Bonfim.",
 		"quickLinks": "Quick Links",
 		"menu": "Menu",
 		"about": "About",
 		"contact": "Contact",
-		"reservation": "Reservation",
+		"reservation": "Reservations",
 		"followUs": "Follow Us",
 		"rights": "All rights reserved."
 	}
